@@ -1,0 +1,91 @@
+<resources>
+    <string name="ad_ID">ca-app-pub-7471325743783488/7362035337</string>
+    <string name="ad_Inter_ID">ca-app-pub-7471325743783488/8100401932</string>
+    <!-- Main_Activity -->
+    <string name="app_name">EnWord</string>
+    <string name="Welcom">Привет</string>
+    <string name="level_1">Первый уровень</string>
+    <string name="level_2">Второй уровень</string>
+    <string name="level_3">Третий уровень</string>
+    <string name="level_4">Четвертый уровень</string>
+    <string name="start">Начать</string>
+    <string name="dictionary">Словарь</string>
+    <string name="result">Результат:</string>
+    <string name="go_lvl">Уровни</string>
+    <string name="arcade">Все слова открытых уровней</string>
+    <!-- Frag_Game -->
+    <string name="otvet_1">Ответ 1</string>
+    <string name="otvet_2">Ответ 2</string>
+    <string name="otvet_3">Ответ 3</string>
+    <string name="otvet_4">Ответ 4</string>
+    <string name="enter_answer_hint"><font size="15">Введите перевод</font><small></small></string>
+    <string name="show_answer">Показать варианты ответов</string>
+    <string name="correctly">Верно</string>
+    <string name="right_answer">Правильный ответ</string>
+    <!-- End_negativ_dialog -->
+    <string name="exit_layout">Выйти на главную</string>
+    <string name="try_again">Начать заново</string>
+    <string name="continue_advertisement">Посмотреть рекламу и продолжить</string>
+    <string name="cosolation_inscription_1">Не расстраивайся! Каждый проигрыш - это твоя победа.</string>
+    <string name="cosolation_inscription_2">Не расстраивайся! Кто не падает - тот не поднимается.</string>
+    <string name="cosolation_inscription_3">Не расстраивайся! Проиграв, ты попробуешь снова и лучше запомнишь.</string>
+    <string name="cosolation_inscription_4">Не расстраивайся! Наверное, ты просто не туда нажал. Можешь продолжить, посмотрев рекламу, или начать заново. </string>
+    <!-- End_positive_dialog -->
+    <string name="result_end_pos">Поздравляю! Ваш результат:</string>
+    <string name="open_collect_game">Вы открыли новую игру. Хотите закрепить знания?</string>
+    <string name="consolidate">Хотите закрепить знания?</string>
+    <string name="consolidate_end_collect">Поздравляю. Хотите закрепить знания?</string>
+    <string name="congr_open_snake_game">Поздравляю, Вы открыли новую игру, хотите закрепим знания?</string>
+    <string name="congr_end_there_game">Поздравляю, Вы прошли все три игры уровня!</string>
+    <string name="congr_end_all_word_end_dialog_collect">Поздравляю.</string>
+    <string name="ugad">Угадано: </string>
+    <string name="sobiraika">Собирайка</string>
+    <string name="snake">Змейка</string>
+
+    <string name="nap">Написано: </string>
+
+    <!-- End_positive_dialog -->
+    <string name="continue_answer">Продолжить</string>
+
+    <!-- Game_selection_dialog -->
+    <string name="quiz_game">Викторина</string>
+    <string name="collect_game">Собирайка</string>
+    <string name="snake_game">Змейка</string>
+
+    <!-- Frag_Translite -->
+    <string name="i_remember">Я запомнил, начать</string>
+    <string name="i_close_tr">Вернуться</string>
+    <!-- Item_Rc_Frag -->
+    <string name="vved_caps">ВВЕДЕНО </string>
+    <string name="ugad_caps">УГАДАНО </string>
+    <!-- Frag_Start_Inf -->
+    <string name="information_1">Приветствуем тебя в приложении "EnWord".
+Здесь ты сможешь в игровой форме выучить 2500 самых употребляемых английских слов.
+Одно слово - один вариант перевода.
+По мере изучения грамматики английского языка и прохождения уровней ты расширишь свой словарный запас производными от изученных в приложении слов. Например, </string>
+    <string name="information_2">exploit - эксплуатировать (глагол) </string>
+    <string name="information_3">exploitation - эксплуатация (существительное) </string>
+    <string name="information_4">exploitative - эксплуататорский (прилагательное) </string>
+    <string name="information_5">exploiter - эксплуататор (существительное) </string>
+    <string name="information_6">За 1 уровень ты выучишь 15 слов и сможешь перейти на следующий только после полного усвоения материала.
+
+Правила очень просты.
+Сначала открой словарь уровня и постарайся запомнить слова.
+Начинай играть и стремись как можно больше слов ввести по памяти. Цвет букв послужит подсказкой.
+Если не помнишь написание слова, то выбери вариант из предложенных.
+Чем больше слов ты будешь вводить самостоятельно, тем быстрее их запомнишь. За 15 правильно введенных слов получишь золотой ореол. Его можно получить позже, пройдя уровень повторно.
+
+Все слова открытых уровней можно повторять в свободном режиме.
+Также у каждого уровня есть две мини-игры , которые помогут закрепить полученные знания!
+Вот и всё!
+Скорее приступай! </string>
+    <string name="closeInfo">Начать</string>
+    <!-- Exit_question_dialog -->
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="question_for_exit">Вы уверены, что хотите выйти? Весь полученный прогресс будет утерян.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
